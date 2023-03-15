@@ -11,6 +11,7 @@ the column db_dyn_sql in jimu_report_db is a sql statement, and this sql will ca
 
 ## payload
 ![image](https://user-images.githubusercontent.com/6756211/225232140-4bc42acf-91e2-479b-bf6e-a9c797e070f9.png)
+![Jietu20230315-151505](https://user-images.githubusercontent.com/6756211/225234485-082b8fa1-2214-4437-beb9-7e937a0c9790.jpg)
 
 ```
 POST /jeecg-boot/jmreport/qurestSql HTTP/1.1
